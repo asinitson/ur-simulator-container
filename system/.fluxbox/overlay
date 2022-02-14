@@ -1,0 +1,3 @@
+! The following line will prevent styles from setting the background.
+! Resolves `fbsetbg: I can't find an app to set the wallpaper with.` error.
+background: unset
